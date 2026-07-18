@@ -1,6 +1,12 @@
 # Terry Tam
 
-Business Computing & Data Analytics undergraduate at [HKBU](https://bcda.comp.hkbu.edu.hk/). I build cross-platform mobile apps with Flutter and Firebase, responsive websites with HTML5, CSS, JavaScript, Backbone.js, and Handlebars, and backend systems using MVC architecture and CMS development. I also use Python for web scraping, automation, and data analysis.
+I am a Business Computing & Data Analytics undergraduate student at [HKBU](https://bcda.comp.hkbu.edu.hk/).
+
+- Build cross-platform mobile apps with Flutter and Firebase.
+- Develop responsive websites with HTML5, CSS, JavaScript, Backbone.js, and Handlebars.
+- Develop backend systems using MVC architecture and CMS development.
+- Use Python for web scraping, automation, and data analysis.
+- Experienced in teaching programming languages to peers.
 
 ## Featured Projects
 
