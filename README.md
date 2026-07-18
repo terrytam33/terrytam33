@@ -1,17 +1,24 @@
-
-
 # Terry Tam
 
-#### Business Computing & Data Analytics undergraduate student at [HKBU](https://bcda.comp.hkbu.edu.hk/)
+Business Computing & Data Analytics undergraduate at [HKBU](https://bcda.comp.hkbu.edu.hk/). I build cross-platform mobile apps with Flutter and Firebase, responsive websites with HTML5, CSS, JavaScript, Backbone.js, and Handlebars, and backend systems using MVC architecture and CMS development. I also use Python for web scraping, automation, and data analysis.
 
----
+## Featured Projects
 
-## 🛠️ Tech Stack
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Time Map HK**](https://timemaphk.com/) | Bilingual heritage map for digital cultural conservation in Hong Kong, browse locations by district or era, explore historical timelines, and chat with AI grounded in verified context | Next.js · PostgreSQL · Azure |
+| [**Typing Survival**](https://typingsurvival.terrytam33.com/) | Typing defense game, type words correctly to defeat attacking zombies | JavaScript · HTML5 · CSS |
+| [**Home AI - Room Design**](https://apps.apple.com/hk/app/home-ai-room-design/id6756410983) | AI-powered interior, exterior, and garden redesign from photos | Flutter |
+| [**MogMax - Jawline Exercises**](https://apps.apple.com/hk/app/mogmax-jawline-exercises/id6757135870) | AI face scans, personalized exercise plans, and progress tracking | Flutter · Firebase |
+| [**Daily Diary: Mood Journal**](https://apps.apple.com/hk/app/daily-diary-mood-journal/id6756636731) | Rich journal entries with mood tracking, tags, photos, and calendar browsing | Flutter · Firebase |
+
+## Tech Stack
 
 ### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Backbone.js](https://img.shields.io/badge/Backbone.js-000000?style=for-the-badge&logo=backbone.js&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 ![CSHTML](https://img.shields.io/badge/CSHTML-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -40,12 +47,19 @@
 ### DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+### AI Tools
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-475569?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-terrytam33.com-0891b2?style=flat-square&logo=google-chrome&logoColor=white)](https://terrytam33.com)
 [![Email](https://img.shields.io/badge/Email-dev@terrytam33.com-0891b2?style=flat-square&logo=minutemailer&logoColor=white)](mailto:dev@terrytam33.com)
