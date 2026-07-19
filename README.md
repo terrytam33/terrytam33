@@ -28,42 +28,42 @@ I am a Business Computing & Data Analytics undergraduate student at [HKBU](https
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Backbone.js](https://img.shields.io/badge/Backbone%2Ejs-000000?style=for-the-badge&labelColor=000000&color=000000)
 ![Handlebars](https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-![CSHTML](https://img.shields.io/badge/CSHTML-512BD4?style=for-the-badge&labelColor=512BD4&color=512BD4)
+![CSHTML](https://img.shields.io/badge/CSHTML-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Mobile Development
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=FFCA28&color=FFCA28)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Backend Development
-![Python](https://img.shields.io/badge/Python-3776A9?style=for-the-badge&labelColor=3776A9&color=3776A9)
+![Python](https://img.shields.io/badge/Python-3776A9?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&labelColor=512BD4&color=512BD4)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&labelColor=276DC3&color=276DC3)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=2C2D72&color=2C2D72)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![MVC architecture](https://img.shields.io/badge/MVC%20architecture-475569?style=for-the-badge&labelColor=475569&color=475569)
 ![CMS development](https://img.shields.io/badge/CMS%20development-475569?style=for-the-badge&labelColor=475569&color=475569)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-475569?style=for-the-badge&labelColor=475569&color=475569)
 
 ### Databases & Data
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&labelColor=CC2927&color=CC2927)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&labelColor=0078D4&color=0078D4)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![Web scraping](https://img.shields.io/badge/Web%20scraping-475569?style=for-the-badge&labelColor=475569&color=475569)
 ![Data analysis](https://img.shields.io/badge/Data%20analysis-475569?style=for-the-badge&labelColor=475569&color=475569)
 
 ### Cloud & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&labelColor=0078D4&color=0078D4)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&labelColor=0078D4&color=0078D4)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&labelColor=F38020&color=F38020)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Automated testing](https://img.shields.io/badge/Automated%20testing-475569?style=for-the-badge&labelColor=475569&color=475569)
 
 ### AI Tools
-![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&labelColor=000000&color=000000)
+![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-475569?style=for-the-badge&labelColor=475569&color=475569)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
