@@ -28,6 +28,7 @@ I am a Business Computing & Data Analytics undergraduate student at [HKBU](https
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Backbone.js](https://img.shields.io/badge/Backbone%2Ejs-000000?style=for-the-badge&labelColor=000000&color=000000)
 ![Handlebars](https://img.shields.io/badge/Handlebars-000000?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![CSHTML](https://img.shields.io/badge/CSHTML-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
